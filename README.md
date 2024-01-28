@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yaseen Nazir</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/httpsyaseen](https://github.com/httpsyaseen)
 
-- 💬 Ask me about **Node Express**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **yaseenwalker1@gmail.com**
+- 📫 How to reach me **httpsyaseen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
