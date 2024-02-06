@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **NodeJS | MongoDB | Express**
+- 💬 Ask me about **NodeJS | MongoDB | Express | React**
 
 - 📫 How to reach me **httpsyaseen@gmail.com**
 
