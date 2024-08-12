@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yaseen Nazir</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">React JS | Next JS | MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsyaseen&label=Profile%20views&color=0e75b6&style=flat" alt="httpsyaseen" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Machine Learning**
   
 - 👀 I am intrested in **python, AI/ML and Devops**
 
-- 💬 Ask me about **NodeJS | MongoDB | Express**
+- 💬 Ask me about **NodeJS | MongoDB | Express | NextJS**
 
 - 📫 How to reach me **httpsyaseen@gmail.com**
 
