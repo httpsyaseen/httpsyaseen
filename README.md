@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsyaseen&label=Profile%20views&color=0e75b6&style=flat" alt="httpsyaseen" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **python and Machine Learning**
   
-- 👀 I am intrested in **python, AI/ML and Devops**
+- 👀 I am intrested in **AI/ML and Devops**
 
 - 💬 Ask me about **NodeJS | MongoDB | Express | NextJS**
 
